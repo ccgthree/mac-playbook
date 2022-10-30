@@ -62,6 +62,7 @@ homebrew_installed_packages:
   - wget
   - wrk
   - zsh-history-substring-search
+  - wireguard-tools
 
 homebrew_taps:
   - homebrew/core
@@ -78,8 +79,33 @@ homebrew_cask_apps:
   - licecap
   - sequel-ace
   - slack
-  - sublime-text
+  # - sublime-text
   - transmit
+  - visual-studio-code
+  - setapp
+  - keyboard-maestro
+  - zoom
+  - loopback
+  - 1password-cli
+  - powershell
+  - microsoft-remote-desktop
+  - arduino
+  - audio-hijack
+  - balenaetcher
+  - boop
+  - calibre
+  - cyberduck
+  - discord
+  - betterdiscord-installer
+  - fantastical
+  - iterm2
+  - omnifocus
+  - openemu
+  - plex
+  - private-internet-access
+  - zerotier-one
+
+
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
