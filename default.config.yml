@@ -104,6 +104,9 @@ homebrew_cask_apps:
   - plex
   - private-internet-access
   - zerotier-one
+  - hazel
+  - alfred
+
 
 
 
