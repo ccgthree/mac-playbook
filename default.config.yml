@@ -107,6 +107,7 @@ homebrew_cask_apps:
   - hazel
   - alfred
   - dropbox
+  - ffmpeg
 
 
 
