@@ -63,6 +63,8 @@ homebrew_installed_packages:
   - wrk
   - zsh-history-substring-search
   - wireguard-tools
+  - oniguruma
+  - jq
 
 homebrew_taps:
   - homebrew/core
