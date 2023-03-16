@@ -1,9 +1,9 @@
 ---
 downloads: ~/.ansible-downloads/
 
-configure_dotfiles: true
-configure_terminal: true
-configure_osx: true
+configure_dotfiles: false
+configure_terminal: false
+configure_osx: false
 
 # Set to 'true' to configure the Dock via dockutil.
 configure_dock: false
@@ -65,6 +65,7 @@ homebrew_installed_packages:
   - wireguard-tools
   - oniguruma
   - jq
+  - ffmpeg
 
 homebrew_taps:
   - homebrew/core
@@ -109,8 +110,7 @@ homebrew_cask_apps:
   - hazel
   - alfred
   - dropbox
-  - ffmpeg
-
+  - todoist
 
 
 
